@@ -1,0 +1,41 @@
+#body1{
+	text-align: center;
+	color: #777777;
+	background: #f6e58d;
+}
+
+#TablaTriki{
+   display: flex;
+   justify-content: center;
+}
+
+.claseBotonTriki{
+    width: 120px;
+    height: 120px;
+    color: #777777;
+    font-weight: bold;
+    margin:5px 5px 5px 5px;
+    background-color: #f5f6fa; 
+    font-size: 50px;
+}
+#Boton_Reiniciar{
+	font-family:Arial;
+	font-size:10pt;
+	width:200px;
+	height:30px;
+    background:#777777;
+    color:#fff444;
+    cursor:pointer;
+}
+#InputTurno{
+	font-family:Arial;
+	font-size:10pt;
+	width:200px;
+	height:30px;
+    background:#777777;
+    color:#fff444;
+    cursor:pointer;
+}
+input{
+	text-align: center;
+}
