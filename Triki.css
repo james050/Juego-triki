@@ -1,7 +1,7 @@
 #body1{
 	text-align: center;
-	color: #777777;
-	background: #f6e58d;
+	color:crimson;
+	background: #75f156;
 }
 
 #TablaTriki{
@@ -12,7 +12,7 @@
 .claseBotonTriki{
     width: 120px;
     height: 120px;
-    color: #777777;
+    color: crimson;
     font-weight: bold;
     margin:5px 5px 5px 5px;
     background-color: #f5f6fa; 
@@ -23,8 +23,8 @@
 	font-size:10pt;
 	width:200px;
 	height:30px;
-    background:#777777;
-    color:#fff444;
+    background:crimson;
+    color:#75f156;
     cursor:pointer;
 }
 #InputTurno{
@@ -32,8 +32,8 @@
 	font-size:10pt;
 	width:200px;
 	height:30px;
-    background:#777777;
-    color:#fff444;
+    background:crimson;
+    color:#75f156;
     cursor:pointer;
 }
 input{
